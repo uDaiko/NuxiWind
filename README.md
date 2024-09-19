@@ -7,14 +7,18 @@ This is a boilerplate for my preferred Nuxt Stack. This will receive regular upd
 - :deciduous_tree: NuxtUI
 - :wind_face: TailwindCSS
 - :straight_ruler: ESLint
+- :green_book: Supabase
 
 
 
 ## Setup Basics
-Install the packages
+1. Install the packages
 
-`npm install`
+    `npm install`
 
-Start the development server
+2. Create a **.env** file for Supabase Keys
 
-`npm run dev`
+3. Start the development server
+
+    `npm run dev`
+
